@@ -20,7 +20,7 @@ require_once("inc/menu.php")
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5" style="margin-bottom: 6rem;">
         <div class="container py-5">
-            <h1 class="display-3 text-white mb-3 animated slideInDown">EU SRR</h1>
+            <h1 class="display-3 text-white mb-3 animated slideInDown">EU SHIP RECYCLING REGULATION <br>(EU SRR)</h1>
         </div>
     </div>
     <!-- Page Header End -->
@@ -39,9 +39,9 @@ require_once("inc/menu.php")
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 pe-lg-0 wow fadeInRight" data-wow-delay="0.1s" style="min-height: 400px;">
+                <div class="col-lg-6 pe-lg-0 wow fadeInRight " data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="images/gallary_61.png" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-85" src="images/gallary_6.png" style="object-fit: cover;" alt="">
                     </div>
                 </div>
             </div>

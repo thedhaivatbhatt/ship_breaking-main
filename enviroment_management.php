@@ -1,9 +1,18 @@
 <?php
 require_once("inc/header.php")
-?>
+?><style>
+    p
+    {
+        text-align: justify;
+    }
+</style>
 </head>
 
 <body>
+<!-- Due to global warming, change of climate and limited oil resources on earth, our society has developed a new environmental awareness. Although there are a series of legal requirements available for the shipping industry, a company can do more to support a positive development. An environmental management system helps the company to optimize operations and further considerations. More and more customers ask for a certificate according to ISO 14001.
+This course provides detailed information about the requirements of the standard ISO 14001.
+You will acquaint yourself with methods of implementation of an environmental management system in shipping companies and on board its ships.
+If you are a Manager, Designated Person, quality or environmental representative or a superintendent you will learn how to integrate an environmental management system into an existing Safety Management System according to the ISM Code. -->
     <!-- Spinner Start -->
     <div id="spinner"
         class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
@@ -45,7 +54,10 @@ require_once("inc/menu.php")
                             <img class="img-fluid" src="images/ship9.png" style="height: 361px; width: 498px;" alt="">
                         </div>
                         <h4 class="mb-3">Haz mat removal from ship</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>
+
+                        Due to global warming, change of climate and limited oil resources on earth, our society has developed a new environmental awareness. Although there are a series of legal requirements available for the shipping industry, a company can do more to support a positive development.
+                        </p>
                         <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -55,7 +67,10 @@ require_once("inc/menu.php")
                             <img class="img-fluid" src="images/ship4.jpg" style="height: 361px; width: 498px;" alt="">
                         </div>
                         <h4 class="mb-3">Haz mat packing on board </h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>
+
+                        An environmental management system helps the company to optimize operations and further considerations. More and more customers ask for a certificate according to ISO 14001.
+                        </p>
                         <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -65,7 +80,7 @@ require_once("inc/menu.php")
                             <img class="img-fluid" style="height: 361px; width: 498px;" src="images/fire1.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Haz mat in trolley on board </h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>This course provides detailed information about the requirements of the standard ISO 14001.</p>
                         <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -75,7 +90,8 @@ require_once("inc/menu.php")
                             <img class="img-fluid" src="images/legal2.jpg" style="height: 361px; width: 498px;" alt="">
                         </div>
                         <h4 class="mb-3">Haz mat bags from trolley to room</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>
+You will acquaint yourself with methods of implementation of an environmental management system in shipping companies and on board its ships.</p>
                         <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -96,9 +112,7 @@ require_once("inc/menu.php")
                             <img class="img-fluid" style="height:213px; width:213px;" src="images/ship1.jpg" alt="">
                         </div>
                         <h5 class="mb-0">Concrete area</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas aperiam quaerat nisi
-                            reiciendis corrupti ab, explicabo aliquid minima dolorum nobis omnis dignissimos enim
-                            exercitationem dolore amet? Natus magnam pariatur ea.</p>
+                        <p>The successful placement of concrete is dependent upon careful mixing, the proper equipment, and adequate transportation. This site will define, analyze, and demonstrate the importance of each in the overall process of placing concrete.</p>
                         <div class="btn-slide mt-1">
                             <i class="fa fa-share"></i>
                             <span>
@@ -113,9 +127,9 @@ require_once("inc/menu.php")
                             <img class="img-fluid" style="height:213px; width:213px;" src="images/ship2.jpg" alt="">
                         </div>
                         <h5 class="mb-0">Oily block area</h5>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora dolor velit expedita,
-                            possimus eligendi consectetur. Eius, nesciunt magnam officia dolores eveniet voluptas
-                            sapiente recusandae earum debitis repellendus quam ullam mollitia.</p>
+                        <p>Under Indian tax laws, Newbury and iServices are allowed to claim the entire expenditure in respect of the Oil Block incurred until the start of commercial production (whether included in the exploration and evaluation assets or development assets)
+                             <!-- as deductible expense in the first year of commercial production or over a period of 10 years. -->
+                            </p>
                         <div class="btn-slide mt-1">
                             <i class="fa fa-share"></i>
                             <span>
@@ -130,9 +144,7 @@ require_once("inc/menu.php")
                             <img class="img-fluid" style="height:213px; width:213px; " src="images/ship3.jpg" alt="">
                         </div>
                         <h5 class="mb-0">Oily water tank</h5>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, dolor! Eaque culpa
-                            voluptatum, porro maiores cupiditate magni suscipit quas distinctio maxime ipsam amet quos,
-                            dolore minus rem, modi eos deserunt?</p>
+                        <p>An oily water separator (OWS) (marine) is a piece of equipment specific to the shipping or marine industry. It is used to separate oil and water mixtures into their separate components. This page refers exclusively to oily water separators aboard marine vessels.</p>
                         <div class="btn-slide mt-1">
                             <i class="fa fa-share"></i>
                             <span>
@@ -147,9 +159,9 @@ require_once("inc/menu.php")
                             <img class="img-fluid" style="height:213px; width:213px;" src="images/ship4.jpg" alt="">
                         </div>
                         <h5 class="mb-0">Wire rope tray and shed</h5>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum recusandae quas,
-                            ab aspernatur velit atque sint aut facere culpa consequatur nostrum ea animi possimus saepe
-                            ut! Cupiditate, tenetur sit?
+                        <p>Wire rope is several strands of metal wire twisted into a helix forming a composite rope, in a pattern known as laid rope. Larger diameter wire rope consists of multiple strands of such laid rope in a pattern known as cable laid.
+
+
                         </p>
                         <div class="btn-slide mt-1">
                             <i class="fa fa-share"></i>
