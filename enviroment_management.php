@@ -1,21 +1,22 @@
 <?php
 require_once("inc/header.php")
 ?><style>
-    p
-    {
+    p {
         text-align: justify;
     }
 </style>
 </head>
 
 <body>
-<!-- Due to global warming, change of climate and limited oil resources on earth, our society has developed a new environmental awareness. Although there are a series of legal requirements available for the shipping industry, a company can do more to support a positive development. An environmental management system helps the company to optimize operations and further considerations. More and more customers ask for a certificate according to ISO 14001.
+    <!-- Due to global warming, change of climate and limited oil resources on earth, our society has developed a new environmental awareness. Although there are a series of legal requirements available for the shipping industry, a company can do more to support a positive development. An environmental management system helps the company to optimize operations and further considerations. More and more customers ask for a certificate according to ISO 14001.
 This course provides detailed information about the requirements of the standard ISO 14001.
 You will acquaint yourself with methods of implementation of an environmental management system in shipping companies and on board its ships.
 If you are a Manager, Designated Person, quality or environmental representative or a superintendent you will learn how to integrate an environmental management system into an existing Safety Management System according to the ISM Code. -->
-    <!-- Spinner Start -->
-    <div id="spinner"
-        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <!-- Spinner Start Knowledge of marine management systems, in particular ISM Knowledge of shipboard operations and environmental regulations (MARPOL)
+
+Who should attend:
+Shipping Companies: Management: Techn. Director (CTO), Manag. Director (CEO), Assistance; Inspection: Superintendent, Fleet Manager, Chief Operating Officer, Assistance; Quality / ISM: Quality Manager, Designated Person, Assistance On Board Personnel: Nautical Officers, Engineers -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
             <span class="sr-only">Loading...</span>
         </div>
@@ -23,13 +24,13 @@ If you are a Manager, Designated Person, quality or environmental representative
     <!-- Spinner End -->
     <!-- Navbar Start -->
     <?php
-require_once("inc/menu.php")
-?>
+    require_once("inc/menu.php")
+    ?>
     <!-- Navbar End -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5" style="margin-bottom: 6rem;">
         <div class="container py-5">
-            <h1 class="display-3 text-white mb-3 animated slideInDown">ENVIROMENT MANAGEMENT</h1>
+            <h1 class="display-3 text-white mb-3 animated slideInDown">ENVIRONMENT MANAGEMENT</h1>
             <!-- <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
@@ -45,56 +46,51 @@ require_once("inc/menu.php")
         <div class="container py-5">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <!-- <h6 class="text-secondary text-uppercase"></h6> -->
-                <h1 class="mb-5">ENVIROMENT MANAGEMENT</h1>
+                <h1 class="mb-5">ENVIRONMENT MANAGEMENT</h1>
             </div>
             <div class="row g-4">
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item p-4">
-                        <div class="overflow-hidden mb-4">
+                        <!-- <div class="overflow-hidden mb-4">
                             <img class="img-fluid" src="images/ship9.png" style="height: 361px; width: 498px;" alt="">
-                        </div>
-                        <h4 class="mb-3">Haz mat removal from ship</h4>
-                        <p>
-
-                        Due to global warming, change of climate and limited oil resources on earth, our society has developed a new environmental awareness. Although there are a series of legal requirements available for the shipping industry, a company can do more to support a positive development.
-                        </p>
-                        <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                        </div> -->
+                        <!-- <h4 class="mb-3">Haz mat removal from ship</h4> -->
+                        <h6>It is a regular practice in the organization to conduct environmental testing every 6 months and report to authorities in case of any violations.</h6>
+                        <!-- <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a> -->
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item p-4">
-                        <div class="overflow-hidden mb-4">
+                        <!-- <div class="overflow-hidden mb-4">
                             <img class="img-fluid" src="images/ship4.jpg" style="height: 361px; width: 498px;" alt="">
-                        </div>
-                        <h4 class="mb-3">Haz mat packing on board </h4>
-                        <p>
-
-                        An environmental management system helps the company to optimize operations and further considerations. More and more customers ask for a certificate according to ISO 14001.
-                        </p>
-                        <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                        </div> -->
+                        <!-- <h4 class="mb-3">Haz mat packing on board </h4> -->
+                        <h6>All asbestos handling in the vessel is outsourced to competent agencies by ship recycling association and hence asbestos handling risk is completely avoided by the organization.
+                        </h6>
+                        <!-- <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a> -->
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="col-md-12 col-lg-12 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item p-4">
-                        <div class="overflow-hidden mb-4">
+                        <!-- <div class="overflow-hidden mb-4">
                             <img class="img-fluid" style="height: 361px; width: 498px;" src="images/fire1.jpg" alt="">
-                        </div>
-                        <h4 class="mb-3">Haz mat in trolley on board </h4>
-                        <p>This course provides detailed information about the requirements of the standard ISO 14001.</p>
-                        <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                        </div> -->
+                        <h4 class="mb-3">Environment management tools available in the organization</h4>
+                        <!-- <p>This course provides detailed information about the requirements of the standard ISO 14001.
+                            Knowledge of shipboard operations and environmental regulations (MARPOL)</p> -->
+                        <!-- <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a> -->
+                        <ul class="list-styled style-circle ml-3 comp_info">
+                            <li class="mb-1">hazardous waste storage room</li>
+                            <li class="mb-1">Oil spill kits on yard and ship</li>
+                            <li class="mb-1">Oil containment improvements in winch</li>
+                            <li class="mb-1">Trays to store diesel, tools and tackles</li>
+                            <li class="mb-1">Oily water / Bilge water collection tanks</li>
+                            <li class="mb-1">Oil containment outlets below wire storage trays</li>
+                            <li class="mb-1">Trolleys to carry sensitive material from ship to plot</li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item p-4">
-                        <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" src="images/legal2.jpg" style="height: 361px; width: 498px;" alt="">
-                        </div>
-                        <h4 class="mb-3">Haz mat bags from trolley to room</h4>
-                        <p>
-You will acquaint yourself with methods of implementation of an environmental management system in shipping companies and on board its ships.</p>
-                        <a class="btn-slide mt-2" href="#"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -128,8 +124,8 @@ You will acquaint yourself with methods of implementation of an environmental ma
                         </div>
                         <h5 class="mb-0">Oily block area</h5>
                         <p>Under Indian tax laws, Newbury and iServices are allowed to claim the entire expenditure in respect of the Oil Block incurred until the start of commercial production (whether included in the exploration and evaluation assets or development assets)
-                             <!-- as deductible expense in the first year of commercial production or over a period of 10 years. -->
-                            </p>
+                            <!-- as deductible expense in the first year of commercial production or over a period of 10 years. -->
+                        </p>
                         <div class="btn-slide mt-1">
                             <i class="fa fa-share"></i>
                             <span>
@@ -178,11 +174,11 @@ You will acquaint yourself with methods of implementation of an environmental ma
 
 
     <?php
-require_once("inc/footer.php");
-?>
+    require_once("inc/footer.php");
+    ?>
     <?php
-require_once("inc/script.php");
-?>
+    require_once("inc/script.php");
+    ?>
 </body>
 
 </html>

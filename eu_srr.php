@@ -28,8 +28,8 @@ require_once("inc/menu.php")
         <div class="container feature py-5 px-lg-0">
             <div class="row g-5 mx-lg-0">
                 <div class="col-lg-6 feature-text wow fadeInUp" data-wow-delay="0.1s">
-                    <h6 class="text-secondary text-uppercase mb-3">Eu</h6>
-                    <h1 class="mb-5">EU SRR</h1>
+                    <h6 class="text-secondary text-uppercase mb-3">EU SRR</h6>
+                    <h1 class="mb-5">EU SHIP RECYCLING REGULATION</h1>
                     <div class="d-flex mb-5 wow fadeInUp" data-wow-delay="0.3s">
                         
                         <!-- <i class="fa fa-sailboat text-primary fa-3x flex-shrink-0"></i> -->
