@@ -36,10 +36,13 @@ require_once("inc/header.php")
                 <div class="col-lg-6 feature-text wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase mb-3">hkc management </h6>
                     <h1 class="mb-5">Oily water </h1>
+
                     <div class="d-flex mb-5 wow fadeInUp" data-wow-delay="0.3s">
-
-                        <p align="justify"> This page refers exclusively to oily water separators aboard marine vessels. They are found on board ships where they are used to separate oil from oily waste water such as bilge water before the waste water is discharged into the environment</p>
-
+                        <div class="ms-4">
+                            <p class="mb-0" align="justify"> This page refers exclusively to oily water separators aboard marine vessels. They are found on board ships where they are used to separate oil from oily waste water such as bilge water before the waste water is discharged into the environment</p>
+                            <br>
+                            <p class="mb-0" align="justify">The separation of both emulsified and immiscible oil/water mixtures using materials with special wetting behavior (hydrophobic-oleophilic or hydrophilic-oleophobic and switchable wettability) has attracted significant research attention in recent years. Among various materials with special wetting behavior, waste material-mediated surfaces have gained more interest because of their various advantages such as fluorine-free and specific surface structural properties, vast availability, flexibility in chemical/structural modification to improve the desired surface properties and eco-friendly nature. This review article describes the oil/water separation application by the waste materials-based special wettable surfaces from different resources. The special wettable surfaces preparation method, treatment effect, efficiency and oil/water separation mechanism are discussed. Moreover, unresolved issues and potential challenges associated with all waste-derived special wettable materials have been highlighted for future development.</p>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-6 pe-lg-0 wow fadeInRight" data-wow-delay="0.1s" style="min-height: 400px;">

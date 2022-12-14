@@ -44,6 +44,7 @@ require_once("inc/menu.php")
                     <h1 class="mb-5">CSR management</h1>
                     <p class="mb-5" align="justify">Corporate Social Responsibility (CSR) is the idea that a company should play a positive role in the community and consider the environmental and social impact of business decisions.
                     </p>
+                    <p class="mb-5" align="justify">CSR has multiples approaches and understanding and its implementation usually follows an international recognized framework. Therefore, THINK&SELL generally uses as reference the international standard ISO 26000-Social Responsibility Management, although the use of other references is justified after an analysis of alternatives in specific cases.</p>
                 </div>
             </div>
         </div>
